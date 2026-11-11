@@ -29,22 +29,24 @@ BookNest is a simple online bookstore built using React. It allows users to expl
 - Home
 - About
 - Books
+- Features
 - Cart
 - Contact
 
 ## Installation and Setup
 
-1. Clone the repository.
-2. Open the project folder.
-3. Install the dependencies:
+	1.	Clone the repository:
+git clone https://github.com/booknestgit/BookNest.git
+	2.	Navigate to the project folder:
+cd BookNest
+	3.	Install dependencies:
+npm install
+	4.	Start the development server:
+npm start
 
-   npm install
-
-4. Start the application:
-
-   npm start
-
-5. Open http://localhost:3000 in your browser.
+## Project Links
+	•	GitHub Repository: https://github.com/booknestgit/BookNest
+	•	Live Website: https://book-nest-ruddy-eta.vercel.app
 
 ## Project Limitations
 This project uses frontend functionality only. It does not include a backend, database, or online payment system.
